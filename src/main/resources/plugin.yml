@@ -1,0 +1,3 @@
+name: steward-exchange-spigot
+main: cc.mousse.steward.StewardExchangeSpigot
+version: ''
