@@ -6,7 +6,7 @@
 
     <groupId>cc.mousse.steward</groupId>
     <artifactId>steward-exchange-spigot</artifactId>
-    <version>2025.1.20</version>
+    <version>2025.2.13</version>
 
     <properties>
         <java.version>17</java.version>
@@ -170,6 +170,12 @@
             <artifactId>lombok</artifactId>
             <version>1.18.34</version>
             <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.jetbrains</groupId>
+            <artifactId>annotations</artifactId>
+            <version>26.0.1</version>
+            <scope>compile</scope>
         </dependency>
     </dependencies>
 </project>

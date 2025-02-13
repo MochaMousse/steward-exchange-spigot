@@ -1,3 +1,11 @@
 name: steward-exchange-spigot
 main: cc.mousse.steward.StewardExchangeSpigot
 version: ''
+commands:
+  ai:
+    usage: /<command>
+    description: AI对话
+    reload:
+      description: 重载配置
+      usage:
+        /ai reload
